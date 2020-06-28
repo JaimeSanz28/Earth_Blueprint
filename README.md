@@ -1,16 +1,16 @@
 # Earth_Blueprint
 
-<img src="https://cdn1.vectorstock.com/i/1000x1000/44/35/blueprint-earth-vector-4435.jpg">
+<img src="https://cdn1.vectorstock.com/i/1000x1000/44/35/blueprint-earth-vector-4435.jpg" =100x20>
 
 
 ## Description
 
-This is a **web scraping** and **APIs** project for *Ironhack*. 
+This is a **MongoDB - Geospatial Queries** project for *Ironhack*. 
 The purpose of the project is to find the optimal location for a tech startup looking to grow fast. I have used a json file from *MongoDB* to sort a list of... I have also extracted data from *Foursquare's*  PLaces API to locate the coordinates that tick the most boxes in terms of the company's preferences.
 
 ## Company Scheme
 
-A recently created company in the `GAMING industry` needs to find the best location in which to build its offices. The company will have the following scheme:
+A recently created company in the **GAMING industry** needs to find the best location in which to build its offices. The company will have the following scheme:
 ​
 - 20 Designers
 - 5 UI/UX Engineers
@@ -45,7 +45,7 @@ A recently created company in the `GAMING industry` needs to find the best locat
 
 ## Documentation
 
-The comapanies data comes from xxx
+The comapanies data comes from a JSONNNNNNNNN
 [Companies.json](companies.json)
 
 The coordinates data comes from Foursquare (a global database of very rich venue data and user content)
