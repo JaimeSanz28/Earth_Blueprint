@@ -1,6 +1,6 @@
 # Earth_Blueprint
 
-<img src="https://cdn1.vectorstock.com/i/1000x1000/44/35/blueprint-earth-vector-4435.jpg" width="15" height="15" />
+<img src="https://cdn1.vectorstock.com/i/1000x1000/44/35/blueprint-earth-vector-4435.jpg" width="300" height="300" />
 
 
 ## Description
