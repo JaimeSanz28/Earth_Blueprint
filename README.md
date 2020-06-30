@@ -1,6 +1,6 @@
 # Earth_Blueprint
 
-<img src="https://cdn1.vectorstock.com/i/1000x1000/44/35/blueprint-earth-vector-4435.jpg" width="300" height="300" />
+<img src="https://cdn1.vectorstock.com/i/1000x1000/44/35/blueprint-earth-vector-4435.jpg" width="650" height="325" />
 
 
 ## Description
@@ -43,9 +43,15 @@ A recently created company in the **GAMING industry** needs to find the best loc
 `LITTLE IMPORTANCE` - The office dog "Pepe" needs a hairdresser every month. Ensure there's one not too far away.
 
 
+
+## Result
+
+The final map with the perfect location and the surrounding venues is in the output folder.
+
+
 ## Documentation
 
-The comapanies data comes from a JSONNNNNNNNN
+The comapanies data comes from a JSON with data of 18k companies.
 [Companies.json](companies.json)
 
 The coordinates data comes from Foursquare (a global database of very rich venue data and user content)
